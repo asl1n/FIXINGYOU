@@ -41,4 +41,4 @@ Place the project folder in the htdocs directory of XAMPP.
 
 Access the Website:
 
-Open your browser and go to http://localhost/.
+Open your browser and go to http://localhost/folderName
